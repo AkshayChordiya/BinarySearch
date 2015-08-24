@@ -7,6 +7,7 @@ Custom implementation of Binary search only by using **ternary operator** in Jav
 ##Proof of Complexity
 Binary Search divides the problem 'n' into 2 parts recursively suppose 'x'  times i.e n / 2^x
 On Further calculations comes to be _logn_
+For more details, check this post http://stackoverflow.com/a/8185382/1904141
 
 ##Sample Output
 ```
